@@ -1,6 +1,6 @@
 # Smoking vs Non-Smoking Image Classification with CNN
 
-This project aims to classify images into "smoking" and "non-smoking" categories using a Convolutional Neural Network (CNN). We start with a simple CNN model and later enhance the performance using the InceptionV3 architecture via transfer learning.
+This project aims to classify images into "smoking" and "non-smoking" categories using a Convolutional Neural Network (CNN). I start with a simple CNN model and later enhance the performance using the InceptionV3 architecture via transfer learning.
 
 ## Dataset
 
